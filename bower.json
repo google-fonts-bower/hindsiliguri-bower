@@ -1,0 +1,17 @@
+{
+    "name": "hindsiliguri-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Indian Type Foundry"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/hindsiliguri-bower.git"
+    },
+    "description": "Hind Siliguri font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
